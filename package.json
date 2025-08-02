@@ -1,5 +1,4 @@
-package.json
-{
+package.json{
   "name": "crypto-charting",
   "version": "1.0.0",
   "scripts": {
@@ -16,3 +15,4 @@ package.json
     "@vitejs/plugin-react": "^4.0.0"
   }
 }
+
